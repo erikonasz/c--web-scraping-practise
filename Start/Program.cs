@@ -23,6 +23,16 @@ namespace WebScraper
             Console.WriteLine("Temperature: " + temperature);
 
             // Get conditions
+
+            var conditionsElement = htmlDocument.DocumentNode.SelectSingleNode("//div[@class='CurrentConditions--phraseValue--mZC_p']");
+            var conditions = conditionsElement.InnerText.Trim();
+            Console.WriteLine("Condition: " + conditions);
+
+            // Get location
+
+            var locationElement = htmlDocument.DocumentNode.SelectSingleNode("//h1[@class='CurrentConditions--location--1YWj_']");
+            var location = locationElement.InnerText.Trim();
+            Console.WriteLine("Location: " + location);
         }
     }
 }

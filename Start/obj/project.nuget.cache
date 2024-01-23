@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wcjircoQGcC54MvB5m+GUq/M54qQOe0aPoDlF7i7y09h821tJ6rrLEQ+X6FDSIwMUutappXWvCMglAkplCyP4w==",
+  "dgSpecHash": "sEvURqxVZn2zJj1BQ/zxeKObRhrzG8vxFWRulS2/JXoNPh65ztHwbpKQoNEr1oepLxhpPTnEHKYeQUYgBPnw5Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\arcik\\Desktop\\c#\\Start\\Start.csproj",
+  "projectFilePath": "C:\\Users\\arcik\\Desktop\\c#\\start\\Start.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\arcik\\.nuget\\packages\\htmlagilitypack\\1.11.57\\htmlagilitypack.1.11.57.nupkg.sha512",
     "C:\\Users\\arcik\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.1\\microsoft.netcore.platforms.1.1.1.nupkg.sha512",

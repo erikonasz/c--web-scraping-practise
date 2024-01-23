@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\arcik\\Desktop\\c#\\Start\\Start.csproj": {}
+    "C:\\Users\\arcik\\Desktop\\c#\\start\\Start.csproj": {}
   },
   "projects": {
-    "C:\\Users\\arcik\\Desktop\\c#\\Start\\Start.csproj": {
+    "C:\\Users\\arcik\\Desktop\\c#\\start\\Start.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\arcik\\Desktop\\c#\\Start\\Start.csproj",
+        "projectUniqueName": "C:\\Users\\arcik\\Desktop\\c#\\start\\Start.csproj",
         "projectName": "Start",
-        "projectPath": "C:\\Users\\arcik\\Desktop\\c#\\Start\\Start.csproj",
+        "projectPath": "C:\\Users\\arcik\\Desktop\\c#\\start\\Start.csproj",
         "packagesPath": "C:\\Users\\arcik\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\arcik\\Desktop\\c#\\Start\\obj\\",
+        "outputPath": "C:\\Users\\arcik\\Desktop\\c#\\start\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\arcik\\AppData\\Roaming\\NuGet\\NuGet.Config"

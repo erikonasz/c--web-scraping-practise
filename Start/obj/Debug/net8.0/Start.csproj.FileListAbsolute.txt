@@ -15,3 +15,4 @@ C:\Users\arcik\Desktop\c#\Start\obj\Debug\net8.0\ref\Start.dll
 C:\Users\arcik\Desktop\c#\Start\bin\Debug\net8.0\HtmlAgilityPack.dll
 C:\Users\arcik\Desktop\c#\Start\obj\Debug\net8.0\Start.csproj.AssemblyReference.cache
 C:\Users\arcik\Desktop\c#\Start\obj\Debug\net8.0\Start.csproj.CopyComplete
+C:\Users\arcik\Desktop\c#\Start\obj\Debug\net8.0\Start.sourcelink.json
