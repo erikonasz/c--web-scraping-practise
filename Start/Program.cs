@@ -33,6 +33,18 @@ namespace WebScraper
             var locationElement = htmlDocument.DocumentNode.SelectSingleNode("//h1[@class='CurrentConditions--location--1YWj_']");
             var location = locationElement.InnerText.Trim();
             Console.WriteLine("Location: " + location);
+
+            // Get alert about weather
+
+            var alertElement = htmlDocument.DocumentNode.SelectSingleNode("//h2[@class='AlertHeadline--alertText--38xov']");
+            var alert = alertElement.InnerText.Trim();
+            Console.WriteLine("Alert: " + alert);
+
+            // Air Quality
+
+            var airqElement = htmlDocument.DocumentNode.SelectSingleNode("//span[@class='AirQualityText--severity--W9CtX']");
+            var airq = airqElement.InnerText.Trim();
+            Console.WriteLine("Air Quality: " + airq);
         }
     }
 }
